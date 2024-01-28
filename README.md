@@ -4,7 +4,7 @@ Its a command line based Digital working system for (any kind of shop) cafe .
 # instalation 
 you must install a compiler of C++ language in order to run this project on windows .<br><br>
 
-install it by using : git clone 
+install it by using : git clone https://github.com/Geek955/cafe-digital-system.git
 
 # Running
 # VS CODE
